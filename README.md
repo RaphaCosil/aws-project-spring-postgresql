@@ -1,1 +1,3 @@
-# aws-project-spring-postgresql
+# Usando Spring + PostgreSQL
+
+##### * Projeto: JBS POC
